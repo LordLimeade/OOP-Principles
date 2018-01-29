@@ -1,0 +1,24 @@
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.exe.config
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.exe
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.pdb
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csprojResolveAssemblyReference.cache
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.AddEditStudentForm.resources
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.MainForm.resources
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.NewAssignmentForm.resources
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.Properties.Resources.resources
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csproj.GenerateResource.Cache
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csproj.CoreCompileInputs.cache
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.exe
+D:\Stuff\Desktop Files\Other\Classes\Year Two\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.pdb
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.exe.config
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.exe
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\bin\Debug\StudentSystemFinal.pdb
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csprojResolveAssemblyReference.cache
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.AddEditStudentForm.resources
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.MainForm.resources
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystem.NewAssignmentForm.resources
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.Properties.Resources.resources
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csproj.GenerateResource.Cache
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.csproj.CoreCompileInputs.cache
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.exe
+D:\Stuff\Desktop Files\Other\Classes\YearTwo\Term 5 Fall\C#\Projects\Project 5\StudentSystemFinal\StudentSystemFinal\StudentSystemFinal\obj\Debug\StudentSystemFinal.pdb
