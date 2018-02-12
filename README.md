@@ -7,4 +7,4 @@ This program reads from an access database, student IDs, names, and grades and d
 
 This particular code shows inheritance through the use of a shared student class to represent a regular student and the base for a dorm student. The properties are also encapsulated through the mutators and accessors to protect the raw data.<br/>
 
-This code also implements many custom exceptions along-side parameterized insert, update, and delete statements fro database changes.
+This code also implements many custom exceptions along-side parameterized insert, update, and delete statements from database changes.
